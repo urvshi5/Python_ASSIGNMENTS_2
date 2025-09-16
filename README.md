@@ -1,4 +1,4 @@
-Python Basic Programming Tasks
+Control Structures in Python Tasks
 
 This repository contains a collection of simple Python scripts designed to demonstrate basic programming concepts. Each script solves a specific problem and includes comments to explain the logic. These tasks are ideal for beginners learning Python.
 Table of Contents
